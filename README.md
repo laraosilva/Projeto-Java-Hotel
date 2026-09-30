@@ -1,6 +1,6 @@
 # Projeto-Java-Hotel
 # INTRODUÇÃO  
-O presente projeto foi desenvolvido como atividade acadêmica para as disciplinas de Linguagem de Programação II e Laboratório de Programação II, tendo como finalidade aplicar, de maneira prática, os conhecimentos relacionados à programação e aos princípios da Programação Orientada a Objetos (POO) utilizando a linguagem Java.
+O projeto foi desenvolvido como atividade acadêmica para as disciplinas de Linguagem de Programação II e Laboratório de Programação II, tendo como finalidade aplicar, de maneira prática, os conhecimentos relacionados à programação e aos princípios da Programação Orientada a Objetos (POO) utilizando a linguagem Java.
 
 O projeto foi desenvolvido em quarteto e consiste no desenvolvimento de um Sistema de Gerenciamento de Reservas de Hotel, elaborado para representar, de forma simplificada, algumas das principais operações envolvidas no gerenciamento de hóspedes, quartos e reservas.
 
